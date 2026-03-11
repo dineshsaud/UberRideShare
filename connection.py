@@ -58,7 +58,7 @@ if __name__ == "__main__":
     print("=" * 80)
     print("SINGLE RIDE CONFIRMATION")
     print("=" * 80)
-    ride = generate_uber_ride_confirmation()
+    ride = generate_uber_ride_confirmation() 
     print(json.dumps(ride, indent=2))
 
     
