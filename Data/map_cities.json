@@ -24,49 +24,49 @@
   },
   {
     "city_id": 4,
-    "city": "Old Houston",
+    "city": "Houston",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-03-20T15:15:37.739+00:00"
   },
   {
     "city_id": 5,
-    "city": "New Phoenix",
+    "city": "Phoenix",
     "state": "AZ",
     "region": "Southwest",
     "updated_at": "2026-03-20T15:15:37.739+00:00"
   },
   {
     "city_id": 6,
-    "city": " Pa Philadelphia",
+    "city": " Philadelphia",
     "state": "PA",
     "region": "Northeast",
     "updated_at": "2026-03-20T15:15:37.739+00:00"
   },
   {
     "city_id": 7,
-    "city": " New San Antonio",
+    "city": "San Antonio",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-03-20T15:15:37.739+00:00"
   },
   {
     "city_id": 8,
-    "city": " New Diego",
+    "city": " San Diego",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-03-20T15:15:37.739+00:00"
   },
   {
     "city_id": 9,
-    "city": " New Dallas",
+    "city": "Dallas",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-03-20T15:15:37.739+00:00"
   },
   {
     "city_id": 10,
-    "city": "New San Jose",
+    "city": "San Jose",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-03-20T15:15:37.739+00:00"
